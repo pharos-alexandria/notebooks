@@ -1,2 +1,2 @@
 # notebooks
-Python Notebooks for experiments etc.
+Jupyter Notebooks for experiments etc.
